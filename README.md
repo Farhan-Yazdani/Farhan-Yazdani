@@ -1,6 +1,6 @@
-## Hello there 
+## Hello there ;-) 
 
-some random guy intersted in artificial intelligence.
+I'm just a random guy intersted in artificial intelligence.
 
 ## software tech stack
 
